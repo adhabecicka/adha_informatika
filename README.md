@@ -22,7 +22,7 @@ Važno je paziti da petlje ne postanu beskonačne, tj. da se ne izvršavaju zauv
 |ADHA BEČIĆ         |     37     |     39,5   |       76,5/100     |
 
 
-## For petlja
+## For petlje
 For petlja je način ponavljanja određenog dijela koda određeni broj puta. Možemo ga zamisliti kao niz koraka koje želimo ponoviti više puta.
 Kada znamo koliko puta želimo ponoviti te korake, koristimo for petlju. Na primjer, ako želimo nacrtati pet istih slika, koristit ćemo for petlju.
 
@@ -43,8 +43,11 @@ Važno je da budemo pažljivi prilikom korištenja while petlji, jer ako se ne d
 ![image](https://github.com/adhabecicka/adha_informatika/assets/169199775/a56b45a2-f632-480a-9dc6-ac4d62aef182)
 
 
-
-
+## Sadržaj
+1.[Petlje u c++]_(#Petlje-u-c++)_
+2.[Tabela]_(#Tabela)_
+3.[For petlje]_(#For-petlje)_
+4.[While petlje]_(#While-petlje)_
 
 
 
