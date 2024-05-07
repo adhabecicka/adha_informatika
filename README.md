@@ -32,6 +32,20 @@ For petlja nam pomaže da to učinimo brzo i tačno. To je kao da imamo voćnjak
 
 ## While petlje
 
+While petlje su još jedan osnovni koncept u programiranju koji omogućava izvršavanje određenog bloka koda sve dok je određeni uslov ispunjen. Za razliku od for petlji koje se koriste kada unaprijed znamo koliko puta treba izvršiti određeni blok koda, while petlje se koriste kada ne znamo unaprijed koliko puta će se kod izvršavati, već se izvršavanje nastavlja sve dok je određeni uslov tačan.
+Glavni dijelovi while petlje su :
+Uslov: Ovde se postavlja uslov koji određuje kada će se petlja izvršavati. Sve dok je uslov tačan (True), blok koda unutar petlje će se izvršavati.
+Iteracija: Unutar bloka koda u while petlji, može se definisati neki kod koji mijenja stanje promenljivih koje su dio uslova petlje. Ovo je važno kako bi se eventualno izašlo iz petlje i izbjeglo beskonačno izvršavanje.
+While petlje su korisne kada ne znamo unaprijed koliko puta će se blok koda izvršavati, već želimo da se izvršava sve dok je određeni uslov tačan. One se često koriste kada radimo sa podacima čiji broj iteracija nije unaprijed poznat, ili kada se izvršavanje petlje zasniva na nekom dinamičkom stanju programa.
+
+Važno je da budemo pažljivi prilikom korištenja while petlji, jer ako se ne definiše ispravno iteracija koja bi dovela do ispunjenja uslova, petlja može zapeti u beskonačno izvršavanje, što može dovesti do nepoželjnih rezultata ili čak do blokiranja programa.
+
+
+
+
+
+
+
 
 
 
