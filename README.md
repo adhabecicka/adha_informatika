@@ -28,7 +28,7 @@ Kada znamo koliko puta želimo ponoviti te korake, koristimo for petlju. Na prim
 
 For petlja nam pomaže da to učinimo brzo i tačno. To je kao da imamo voćnjak pun jabuka koje trebamo pokupiti. For petlja nam omogućava da idemo redom kroz voćnjak i svaki put pokupimo po jednu jabuku, dok ne pokupimo sve. Onda se zaustavimo i imamo sve jabuke!
 
-![image](https://github.com/adhabecicka/adha_informatika/assets/169199775/919509c6-2900-4a74-90fa-4519aa8bbb84)
+![image](https://github.com/adhabecicka/adha_informatika/assets/169199775/83ccff34-920c-4d20-932b-204ca79428e2)
 
 ## While petlje
 
@@ -40,6 +40,7 @@ While petlje su korisne kada ne znamo unaprijed koliko puta će se blok koda izv
 
 Važno je da budemo pažljivi prilikom korištenja while petlji, jer ako se ne definiše ispravno iteracija koja bi dovela do ispunjenja uslova, petlja može zapeti u beskonačno izvršavanje, što može dovesti do nepoželjnih rezultata ili čak do blokiranja programa.
 
+![image](https://github.com/adhabecicka/adha_informatika/assets/169199775/a56b45a2-f632-480a-9dc6-ac4d62aef182)
 
 
 
