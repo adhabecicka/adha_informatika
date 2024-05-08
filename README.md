@@ -48,10 +48,10 @@ https://chat.openai.com
 
 
 ## Sadržaj
-1. [Petlje-u-c++](#Petlje-u-c++)
+1. [Petlje u c++](#Petlje-u-c++)
 2. [Tabela](#Tabela)
-3. [For-petlje](#For-petlje)
-4. [While-petlje](#While-petlje)
+3. [For petlje](#For-petlje)
+4. [While petlje](#While-petlje)
 
 
 
