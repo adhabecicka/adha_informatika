@@ -43,11 +43,15 @@ Važno je da budemo pažljivi prilikom korištenja while petlji, jer ako se ne d
 ![image](https://github.com/adhabecicka/adha_informatika/assets/169199775/a56b45a2-f632-480a-9dc6-ac4d62aef182)
 
 
+https://chat.openai.com
+
+
+
 ## Sadržaj
-1.[Petlje u c++]_(#Petlje-u-c++)_
-2.[Tabela]_(#Tabela)_
-3.[For petlje]_(#For-petlje)_
-4.[While petlje]_(#While-petlje)_
+1. [Petlje-u-c++](#Petlje-u-c++)
+2. [Tabela](#Tabela)
+3. [For-petlje](#For-petlje)
+4. [While-petlje](#While-petlje)
 
 
 
